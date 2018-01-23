@@ -372,7 +372,7 @@ div#ipython-main-app.container {
  margin-left: auto;
 }
 .container {
- width: 980px;
+ width: 90% !important;
  margin-right: auto;
  margin-left: auto;
 }
@@ -1643,7 +1643,7 @@ div.rendered_html h5 {
 .text_cell_render h1 {
  color: #b58900;
  font-size: 215%;
- text-align: center;
+ text-align: left;
  font-style: normal;
  font-weight: lighter;
 }
